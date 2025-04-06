@@ -1,36 +1,17 @@
 ---
-title: Welcome to Starlight
-description: Get started building your docs site with Starlight.
-template: splash
-hero:
-  tagline: Congrats on setting up a new Starlight project!
-  image:
-    file: ../../assets/houston.webp
-  actions:
-    - text: Example Guide
-      link: /guides/example/
-      icon: right-arrow
-    - text: Read the Starlight docs
-      link: https://starlight.astro.build
-      icon: external
-      variant: minimal
+title: Welcome to WAGMI
+description: Free weekly learning roadmaps and resources for online students.
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
 
-## Next steps
+Welcome to WAGMI, your free online learning platform. Here, you'll find weekly roadmaps that provide a structured path to mastering new skills. Each roadmap includes curated resources, practical exercises, and clear objectives to help you progress. Start with the current week's roadmap or browse through previous weeks to catch up or review. If you have any questions or need support, feel free to contact me.
+
+## Get Started
 
 <CardGrid stagger>
-	<Card title="Update content" icon="pencil">
-		Edit `src/content/docs/index.mdx` to see this page change.
-	</Card>
-	<Card title="Add new content" icon="add-document">
-		Add Markdown or MDX files to `src/content/docs` to create new pages.
-	</Card>
-	<Card title="Configure your site" icon="setting">
-		Edit your `sidebar` and other config in `astro.config.mjs`.
-	</Card>
-	<Card title="Read the docs" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
-	</Card>
+  <LinkCard title="Current Week's Roadmap" description="Dive into this week's learning material and start making progress." href="" />
+  <LinkCard title="Browse All Roadmaps" description="Access the archive of all weekly roadmaps to review or catch up." href="/roadmaps" />
+  <LinkCard title="How to Use This Site" description="Learn how to navigate the site and make the most of the provided resources." href="/guide" />
+  <LinkCard title="Contact and Support" description="Get in touch with the instructor for questions, feedback, or assistance." href="/contact" />
 </CardGrid>
