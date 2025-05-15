@@ -3,39 +3,35 @@ title: Introduction
 type: docs
 ---
 
-# Acerbo datus maxime
+# What is WAGMI?
 
-{{% columns %}}
-## Astris ipse furtiva
+Welcome to WAGMI, an initiative founded by Yash, Aman, and Dilsha Mam three years ago with the mission to help our juniors become exceptional engineers. WAGMI, which stands for "We are all gonna make it," is a phrase popularized in the crypto community, symbolizing collective success and perseverance. Over the past three years, we have mentored more than 20 students, igniting their passion for engineering and computer science. Until now, WAGMI has operated as an underground project, allowing us to refine our approach and plan for future expansion. Rest assured, WAGMI is not a commercial venture; we have no intention of monetizing it. Our sole purpose is to cultivate a genuine interest in computer science and guide students toward a successful career path.
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+# FAQs
 
-<--->
+- **Do I need to pay anything to be a part of WAGMI?**  
+  No, participation in WAGMI is completely free. All we require is your dedication and hard work.
 
-## Suis quot vota
+- **What are the organizers getting from this?**  
+  By running WAGMI, we are building a network of friends and potential future colleagues, while also becoming the supportive seniors we wish we had during our own studies.
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{% /columns %}}
+- **What is the main goal of WAGMI?**  
+  The main goal of WAGMI is to support and mentor junior students in their journey to becoming skilled engineers. We aim to provide the guidance, resources, and community that we wished we had when we were starting out.
 
+- **Who can join WAGMI?**  
+  WAGMI is open to any student who is passionate about engineering and computer science and is willing to put in the effort to learn and grow. While we primarily focus on juniors, we welcome anyone who shares our enthusiasm for the field.
 
-## Tempora nisi nunc
+- **What kind of activities or programs does WAGMI offer?**  
+  ---- TODO ----
 
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
+- **How can I get involved with WAGMI?**  
+  ---- TODO ----
 
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
+- **Is there any commitment required to be part of WAGMI?**  
+  While there is no financial commitment, ---- TODO ----
 
-## Locis suis novi cum suoque decidit eadem
+- **Can WAGMI help me with my career prospects and How?**  
+  ---- TODO ----
 
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab?
+- **Why is WAGMI not monetized?**  
+  We believe that education and mentorship should be accessible to all, regardless of financial background. By keeping WAGMI free, we ensure that every passionate student has the opportunity to benefit from our initiative.
