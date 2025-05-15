@@ -2,7 +2,7 @@
 
 In Weeks 2 and 3, we'll focus on mastering arrays and sorting algorithms. These are foundational concepts in DSA and will recur throughout your learning journey and in interviews.
 
-### Watch these videos
+## 📚 Watch these videos
 
 #### Basics of Arrays
 

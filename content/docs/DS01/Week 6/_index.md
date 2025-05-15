@@ -1,6 +1,6 @@
 ## Week 6 - Recursion & Strings
 
-#### Recursion Basics & Simple Patterns
+### 🔹 Recursion Basics & Simple Patterns
 
 1. [Understand recursion by print something N times](https://www.youtube.com/watch?v=yVdKa8dnKiE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=1)
 
@@ -12,7 +12,7 @@
 
 ---
 
-#### Recursion on Arrays & Strings
+### 🔹 Recursion on Arrays & Strings
 
 5. [Check if Array is Sorted using Recursion](https://www.youtube.com/watch?v=un6PLygfXrA&t=300s)
 
@@ -24,7 +24,7 @@
 
 ---
 
-#### Recursion on Numbers & Combinatorics
+### 🔹 Recursion on Numbers & Combinatorics
 
 9. [Factorial of a Number using Recursion](https://www.youtube.com/watch?v=un6PLygfXrA&t=540s)
 
@@ -36,7 +36,7 @@
 
 ---
 
-#### Advanced Recursion & Backtracking
+### 🔹 Advanced Recursion & Backtracking
 
 13. [Print All Subsequences of a String](https://www.youtube.com/watch?v=un6PLygfXrA&t=780s)
 
@@ -46,7 +46,7 @@
 
 ---
 
-#### Strings
+### 🔹 Practice These Questions (Strings)
 
 1. [Reverse String](https://leetcode.com/problems/reverse-string/) - 🎥 [Solution](https://www.youtube.com/watch?v=Wdjr6uoZ0e0&t=1114s)
 
