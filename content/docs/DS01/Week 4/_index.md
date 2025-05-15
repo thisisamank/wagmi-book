@@ -2,7 +2,7 @@
 
 ### [Watch Hashing Video](https://www.youtube.com/watch?v=KEs5UyBJ39g)
 
-### 📌 Practice these questions (Hashing)
+### 🔹 Practice these questions (Hashing)
 
 1. [Count frequencies of array elements](https://leetcode.com/problems/number-of-good-pairs/) - 🎥 [Solution](https://www.youtube.com/watch?v=KEs5UyBJ39g&t=60s)
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 📌 Practice these questions (Singly Linked List)
+### 🔹 Practice these questions (Singly Linked List)
 
 1. [Design Linked List](https://leetcode.com/problems/design-linked-list/) - 🎥 [Solution](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
 
@@ -54,7 +54,7 @@
 
 ---
 
-### 📌 Practice these questions (Doubly Linked List)
+### 🔹 Practice these questions (Doubly Linked List)
 
 1. [Design Doubly Linked List](https://leetcode.com/problems/design-linked-list/) - 🎥 [Solution](https://www.youtube.com/watch?v=0G2f8v5r9uE)
 

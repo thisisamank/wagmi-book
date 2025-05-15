@@ -4,7 +4,7 @@
 
 - [Intro to Stack and Queues](https://www.youtube.com/watch?v=tqQ5fTamIN4)
 
-### 📌 Practice these questions (Stacks & Queues)
+### 🔹 Practice these questions (Stacks & Queues)
 
 1. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - 🎥 [Solution](https://www.youtube.com/watch?v=6p3b2X9Kq1k)
 

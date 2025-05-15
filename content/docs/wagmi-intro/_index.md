@@ -1,8 +1,9 @@
 ---
-weight: 1
+weight: 10
 bookFlatSection: true
 title: "WAGMI (Introduction)"
 ---
+
 # What is WAGMI?
 
 Welcome to WAGMI, an initiative founded by Yash, Aman, and Dilsha Mam three years ago with the mission to help our juniors become exceptional engineers. WAGMI, which stands for "We are all gonna make it," is a phrase popularized in the crypto community, symbolizing collective success and perseverance. Over the past three years, we have mentored more than 20 students, igniting their passion for engineering and computer science. Until now, WAGMI has operated as an underground project, allowing us to refine our approach and plan for future expansion. Rest assured, WAGMI is not a commercial venture; we have no intention of monetizing it. Our sole purpose is to cultivate a genuine interest in computer science and guide students toward a successful career path.
@@ -22,19 +23,16 @@ Welcome to WAGMI, an initiative founded by Yash, Aman, and Dilsha Mam three year
   WAGMI is open to any student who is passionate about engineering and computer science and is willing to put in the effort to learn and grow. While we primarily focus on juniors, we welcome anyone who shares our enthusiasm for the field.
 
 - **What kind of activities or programs does WAGMI offer?**  
----- TODO ----
+  ---- TODO ----
 
 - **How can I get involved with WAGMI?**  
----- TODO ----
-
+  ---- TODO ----
 
 - **Is there any commitment required to be part of WAGMI?**  
   While there is no financial commitment, ---- TODO ----
 
-
 - **Can WAGMI help me with my career prospects and How?**  
----- TODO ----
-
+  ---- TODO ----
 
 - **Why is WAGMI not monetized?**  
   We believe that education and mentorship should be accessible to all, regardless of financial background. By keeping WAGMI free, we ensure that every passionate student has the opportunity to benefit from our initiative.

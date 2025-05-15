@@ -22,7 +22,7 @@ In Weeks 2 and 3, we'll focus on mastering arrays and sorting algorithms. These 
 - [Linear Search](https://www.youtube.com/watch?v=_HRA37X8N_Q)
 - [Binary Search](https://www.youtube.com/watch?v=MHf6awe89xw)
 
-### 📌 Practice these questions (Arrays)
+### 🔹 Practice these questions (Arrays)
 
 1. [Largest Element in an Array](https://www.codingninjas.com/studio/problems/largest-element-in-the-array_5026279) - 🎥 [Solution](https://youtu.be/37E9ckMDdTk)
 
@@ -52,7 +52,7 @@ In Weeks 2 and 3, we'll focus on mastering arrays and sorting algorithms. These 
 
 14. [Longest Subarray with Sum K (Positives + Negatives)](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/) - 🎥 [Solution](https://youtu.be/frf7qxiN2qU?t=624)
 
-### 📌 Practice these questions (Binary Search on Arrays)
+### 🔹 Practice these questions (Binary Search on Arrays)
 
 1. [Binary Search to Find X](https://leetcode.com/problems/binary-search/) - 🎥 [Solution](https://youtu.be/W9QJ8HaRvJQ)
 
