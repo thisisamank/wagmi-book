@@ -1,6 +1,6 @@
 baseURL = 'wagmi.thisisamank.com'
 languageCode = 'en-us'
-title = 'WAGMI Syllabus 2025'
+title = 'WAGMI 2025'
 theme = 'hugo-book'
 
 [caches]
