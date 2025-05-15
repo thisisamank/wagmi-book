@@ -7,13 +7,13 @@ title: "Computer Networks"
 
 ## 1. How we go from Click to Response
 
-![CS Step 1](../static/csstep1.png)
+![CS Step 1](/images/csstep1.png)
 
 ---
 
 ## 2. DNS & IP Addresses
 
-![CS Step 2](../static/csstep2.png)
+![CS Step 2](/images/csstep2.png)
 
 ---
 
