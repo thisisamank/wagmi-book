@@ -26,8 +26,7 @@ In the first week of `ds01`, we will focus on building a strong foundation in Ja
 4. Take two numbers and an operator (+, -, \*, /). Calculate the result. (Use if conditions)
 
 ### 🔹 Loops
-
-1. Calculate electricity bill using rate slabs and units consumed.
-2. Calculate average of N numbers.
-3. Calculate discount on a product (based on percentage).
-4. Calculate distance between two points (input x1, y1, x2, y2).
+1. Print numbers from 1 to N using a loop.
+2. Calculate the sum of first N natural numbers using a loop.
+3. Print the multiplication table of a given number using a loop.
+4. Find the factorial of a number using a loop.

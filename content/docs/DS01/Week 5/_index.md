@@ -5,35 +5,37 @@
 - [Intro to Stack and Queues](https://www.youtube.com/watch?v=tqQ5fTamIN4)
 
 ### 🔹 Practice these questions (Stacks & Queues)
+1. [Implement Stack using Arrays](https://practice.geeksforgeeks.org/problems/implement-stack-using-array/1) - 🎥 [Solution](https://www.youtube.com/watch?v=GYptUgnIM_I)
 
-1. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - 🎥 [Solution](https://www.youtube.com/watch?v=6p3b2X9Kq1k)
+2. [Implement Queue using Arrays](https://practice.geeksforgeeks.org/problems/implement-queue-using-array/1) - 🎥 [Solution](https://www.youtube.com/watch?v=tqQ5fTamIN4&t=1s)
 
-2. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) - 🎥 [Solution](https://www.youtube.com/watch?v=0ZUM0yhBtPI)
+3. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) - 🎥 [Solution](https://www.youtube.com/watch?v=tqQ5fTamIN4&t=1s)
 
-3. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) - 🎥 [Solution](https://www.youtube.com/watch?v=8LusJS5-AGo)
+4. [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) - 🎥 [Solution](https://www.youtube.com/watch?v=tqQ5fTamIN4&t=1s)
 
-4. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) - 🎥 [Solution](https://www.youtube.com/watch?v=8LusJS5-AGo&t=150s)
+5. [Implement Stack using Linked List](https://practice.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) - 🎥 [Solution](https://www.youtube.com/watch?v=tqQ5fTamIN4&t=1s)
 
-5. [Next Smaller Element](https://practice.geeksforgeeks.org/problems/next-smaller-element-1587115620/1) - 🎥 [Solution](https://www.youtube.com/watch?v=V6mKVRU1evU)
+6. [Implement Queue using Linked List](https://practice.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) - 🎥 [Solution](https://www.youtube.com/watch?v=tqQ5fTamIN4&t=1s)
 
-6. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) - 🎥 [Solution](https://www.youtube.com/watch?v=cTBiBSnjO3c)
+7. [Check for Balanced Parentheses](https://practice.geeksforgeeks.org/problems/parenthesis-checker2744/1) - 🎥 [Solution](https://www.youtube.com/watch?v=xwjS0iZhw4I)
 
-7. [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) - 🎥 [Solution](https://www.youtube.com/watch?v=ZmnqCZp9bBs)
+8. [Min Stack](https://leetcode.com/problems/min-stack/) - 🎥 [Solution](https://www.youtube.com/watch?v=NdDIaH91P0g&feature=youtu.be)
 
-8. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) - 🎥 [Solution](https://www.youtube.com/watch?v=VdQYQ7y5h2g)
+9. [Infix to Postfix Conversion using Stack](https://practice.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) - 🎥 [Solution](https://www.youtube.com/watch?v=YSx6-ZEeKO4)
 
-9. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - 🎥 [Solution](https://www.youtube.com/watch?v=QZ0f3wvhLXw)
+10. [Prefix to Infix Conversion](https://practice.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) - 🎥 [Solution](https://www.youtube.com/watch?v=4pIc9UBHJtk)
 
-10. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) - 🎥 [Solution](https://www.youtube.com/watch?v=IYCa1F-OWmk)
+11. [Prefix to Postfix Conversion](https://practice.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) - 🎥 [Solution](https://www.youtube.com/watch?v=4pIc9UBHJtk)
 
-11. [Min Stack](https://leetcode.com/problems/min-stack/) - 🎥 [Solution](https://www.youtube.com/watch?v=ylP8uJ1Qkdo)
+12. [Postfix to Prefix Conversion](https://practice.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) - 🎥 [Solution](https://www.youtube.com/watch?v=4pIc9UBHJtk)
 
-12. [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) - 🎥 [Solution](https://www.youtube.com/watch?v=7A0p8zYdL7k)
+13. [Postfix to Infix](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) - 🎥 [Solution](https://www.youtube.com/watch?v=4pIc9UBHJtk)
 
-13. [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) - 🎥 [Solution](https://www.youtube.com/watch?v=0XfYbB3Zk1M)
+14. [Convert Infix To Prefix Notation](https://takeuforward.org/plus/dsa/problems/infix-to-prefix-conversion) - 🎥 [Solution](https://www.youtube.com/watch?v=4pIc9UBHJtk)
 
-14. [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) - 🎥 [Solution](https://www.youtube.com/watch?v=0XfYbB3Zk1M&t=150s)
+15. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) - 🎥 [Solution](https://www.youtube.com/watch?v=e7XQLtOQM3I)
 
-15. [Implement Stack using Linked List](https://leetcode.com/problems/implement-stack-using-linked-list/) - 🎥 [Solution](https://www.youtube.com/watch?v=tqQ5fTamIN4)
+16. [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) - 🎥 [Solution](https://www.youtube.com/watch?v=7PrncD7v9YQ)
 
-16. [Monotonic Stack - Next Greater Element Variation](https://leetcode.com/problems/next-greater-element-iii/) - 🎥 [Solution](https://www.youtube.com/watch?v=8LusJS5-AGo&t=300s)
+17. [Next Smaller Element](https://takeuforward.org/plus/dsa/problems/next-smaller-element) - 🎥 [Solution](https://www.youtube.com/watch?v=_RtghJnM1Qo)
+
