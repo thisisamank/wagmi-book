@@ -8,14 +8,8 @@ In Week 3 of `FE01`, we will go deep into the DOM—selectors, manipulation, and
 
 ### DOM Basics
 
-- [DOM Overview](https://www.youtube.com/watch?v=DcjNkHtDj8A)
-- [DOM Selectors](https://www.youtube.com/watch?v=Ab6K57WjWTE)
-- [DOM Events](https://www.youtube.com/watch?v=_ALUMTa8BAE)
-- [DOM Manipulation](https://www.youtube.com/watch?v=5fb2aPlgoys)
+- [JavaScript DOM](https://youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V&si=usyih8zZJyeK_HKZ)
 
-or
-
-- Refer to Chai aur Code playlist (Video 31–36) [DOM – Chai aur Code](https://www.youtube.com/watch?v=Hr5iLG7sUa0&list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
 
 ## 🛠 Project
 

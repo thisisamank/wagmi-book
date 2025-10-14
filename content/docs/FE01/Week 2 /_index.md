@@ -8,7 +8,7 @@ In Week 2 of `FE01`, we’ll get started with the JavaScript language and explor
 
 ### JavaScript Basics
 
-- [JS Basics](https://www.youtube.com/watch?v=hdI2bqOjy3c&list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX&index=1&pp=iAQB)
+- [JS Basics](https://youtu.be/hdI2bqOjy3c?si=lgAo3sOT7D1FZSmL)
 
 ### How the Browser Works
 
