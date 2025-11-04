@@ -1,0 +1,8 @@
+baseURL = 'wagmi.thisisamank.com'
+languageCode = 'en-us'
+title = 'WAGMI 2025'
+theme = 'hugo-book'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
