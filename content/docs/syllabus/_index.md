@@ -4,9 +4,9 @@ bookFlatSection: true
 title: "Syllabus"
 ---
 
-# WAGMI Syllabus
+# AKXR Syllabus
 
-Welcome to the official syllabus for the WAGMI program, 2025 batch. This structured curriculum is designed to build you into a solid, job-ready developer by combining technical depth, discipline, and a strong sense of community.
+Welcome to the official syllabus for the AKXR program, 2025 batch. This structured curriculum is designed to build you into a solid, job-ready developer by combining technical depth, discipline, and a strong sense of community.
 
 The course will follow a strict module-based order. Each module has its own code and will be taught sequentially:
 
