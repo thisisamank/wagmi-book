@@ -1,4 +1,4 @@
-# WAGMI 2025
+# AKXR 2025
 
 A Hugo-based documentation site built with the hugo-book theme.
 
