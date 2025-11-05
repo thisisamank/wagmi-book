@@ -5,7 +5,7 @@ type: docs
 
 # What is AKXR?
 
-Welcome to AKXR, an initiative founded by Yash, Aman, and Dilsha Mam three years ago with the mission to help our juniors become exceptional engineers. AKXR, which stands for "We are all gonna make it," is a phrase popularized in the crypto community, symbolizing collective success and perseverance. Over the past three years, we have mentored more than 20 students, igniting their passion for engineering and computer science. Until now, AKXR has operated as an underground project, allowing us to refine our approach and plan for future expansion. Rest assured, AKXR is not a commercial venture; we have no intention of monetizing it. Our sole purpose is to cultivate a genuine interest in computer science and guide students toward a successful career path.
+Welcome to AKXR, an initiative founded by Yash, Aman, and Dilsha Mam three years ago with the mission to help our juniors become exceptional engineers. Over the past three years, we have mentored more than 20 students, igniting their passion for engineering and computer science. Until now, AKXR has operated as an underground project, allowing us to refine our approach and plan for future expansion. Rest assured, AKXR is not a commercial venture; we have no intention of monetizing it. Our sole purpose is to cultivate a genuine interest in computer science and guide students toward a successful career path.
 
 # FAQs
 
