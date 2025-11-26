@@ -10,7 +10,7 @@ Over the next month, you will dive deep into React and strengthen your frontend 
 
 **Guidelines**
 
-- Set up all projects using **Vite** instead of Create React App.
+- Set up all projects using **Parcel** instead of Create React App.
 - Write **every single file** in **TypeScript**. JavaScript is not allowed.
 - Commit **every small change** to GitHub — treat this as documentation of your learning journey.
 - Whenever you learn a new concept, **implement it immediately** in a small example or project. Practice reinforces theory.
