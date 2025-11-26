@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'AKXR 2025'
 theme = 'hugo-book'
 
+[params]
+  BookTheme = 'dark'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
